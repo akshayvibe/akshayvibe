@@ -1,7 +1,7 @@
 # Hey, I am Akshay Kumar Mishra
 ### Full Stack Developer | Student @ VIT Bhopal
 
-<img align="right" alt="coding" width="310" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"/>
+<img align="right" alt="coding" width="310" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo4M2N1OWEyZnJ0ajVncDZqMzA2MmdrdDc1bDA4eno2ZGZhMHdvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 * **Tech Lead** at Google Developer Groups (GDG) VIT Bhopal
 * Interested in **Scalable Backend Systems** and **P2P Architecture**
