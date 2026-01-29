@@ -10,7 +10,7 @@
 * 🔭 Open to **Internships** and **SDE** opportunities
 
 #### 📈 GitHub Contributions
-[![Akshay's GitHub Chart](https://ghchart.rshah.org/39D353/akshayvibe)](https://github.com/akshayvibe)
+[![Akshay's GitHub Chart](https://ghchart.rshah.org/39D353/akshayvibe?bg=161B22)](https://github.com/akshayvibe)
 
 ---
 
