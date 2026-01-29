@@ -1,19 +1,20 @@
 # ⚡ Akshay Kumar Mishra
-### Full Stack Developer | Tech Lead @ GDG VIT Bhopal
+### Full Stack Developer | Student @ VIT Bhopal
 
-<img align="right" alt="coding" width="330" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"/>
+<img align="right" alt="coding" width="310" src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif"/>
 
 * 🚀 **Tech Lead** at Google Developer Groups (GDG) VIT Bhopal
-* 💡 Passionate about **Scalable Backend Systems** and **P2P Architectures**
-* 📊 Mastered **400+ Problems** on LeetCode
+* 💡 Interested in **Scalable Backend Systems** and **P2P Architecture**
+* 📊 Solving **DSA** challenges on LeetCode
 * 📫 Reach me: [akshayjha2111@gmail.com](mailto:akshayjha2111@gmail.com)
-* 🔭 Open to **Internships** and **SDE** roles
+* 🔭 Open to **Internships** and **SDE** opportunities
 
-#### My GitHub Contributions
-[![Akshay's GitHub Chart](https://ghchart.rshah.org/BD93F9/akshayvibe)](https://github.com/akshayvibe)
+#### 📈 GitHub Contributions
+[![Akshay's GitHub Chart](https://ghchart.rshah.org/39D353/akshayvibe)](https://github.com/akshayvibe)
 
 ---
 
-### Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/itsakshay)
-[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />](https://leetcode.com/u/akshayjha2111/)
+### 🌐 Connect with Me
+[<img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0077B5" />](https://www.linkedin.com/in/itsakshay)
+[<img src="https://img.shields.io/badge/LeetCode-121212?style=for-the-badge&logo=leetcode&logoColor=FFA116" />](https://leetcode.com/u/akshayjha2111/)
+[<img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=EA4335" />](mailto:akshayjha2111@gmail.com)
