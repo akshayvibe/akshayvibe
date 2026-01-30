@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="200" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGo4M2N1OWEyZnJ0ajVncDZqMzA2MmdrdDc1bDA4eno2ZGZhMHdvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 * **Tech Lead** at Google Developer Groups (GDG) VIT Bhopal
-* Interested in **Scalable Backend Systems** and **P2P Architecture**
+* Interested in **Scalable Backend Systems.**
 * Solving **DSA** challenges on LeetCode
 * Reach me: [akshayjha2111@gmail.com](mailto:akshayjha2111@gmail.com)
 * Open to **Internships** and **SDE** opportunities
