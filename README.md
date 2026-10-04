@@ -1,7 +1,6 @@
 # Hey, I am Akshay Kumar Mishra
 ### Full Stack Developer | Student @ VIT Bhopal
 
-* **Tech Lead** at Google Developer Groups (GDG) VIT Bhopal
 * Interested in **Scalable Backend Systems.**
 * Solving **DSA** challenges on LeetCode
 * Reach me: [akshayjha2111@gmail.com](mailto:akshayjha2111@gmail.com)
